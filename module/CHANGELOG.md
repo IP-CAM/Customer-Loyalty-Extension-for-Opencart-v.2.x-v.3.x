@@ -1,9 +1,13 @@
 # Change log
 
+## [1.1.6] - 2022-06-01:
+### Fixed
+- New groups creating issue
+
 ## [1.1.5] - 2022-01-29:
 ### Changed
 - Info view in the personal accounts
-s
+
 ## [1.1.4] - 2022-01-29:
 ### Fixed
 - Wrong total amount calculation for orders in non-default currency
