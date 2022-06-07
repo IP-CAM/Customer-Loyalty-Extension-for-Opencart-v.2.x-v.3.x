@@ -1,7 +1,7 @@
 <?php
 
 define('MODVERS', '1.1.6');
-define('MODYEAR', '2022');
+define('MODYEAR', '2021');
 
 define('AUTHOR', 'Andrii Burkatskyi');
 define('EMAIL', 'ocmod.space@gmail.com');
