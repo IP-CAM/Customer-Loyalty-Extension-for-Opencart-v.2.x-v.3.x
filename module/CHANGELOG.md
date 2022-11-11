@@ -1,5 +1,9 @@
 # Change log
 
+## [1.1.7] - 2022-11-11:
+### Internal
+- Code improvement
+
 ## [1.1.6] - 2022-06-01:
 ### Fixed
 - New groups creating issue

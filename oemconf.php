@@ -1,6 +1,6 @@
 <?php
 
-define('MODVERS', '1.1.6');
+define('MODVERS', '1.1.7');
 define('MODYEAR', '2021');
 
 define('AUTHOR', 'Andrii Burkatskyi');
