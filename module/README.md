@@ -5,7 +5,7 @@
 Compatible with OpenCart 2.2.x-3.x versions.
 
 ## Features
-* Automatic transfer of customers to appropriate groups according to total amounts they spent.
+* Automatic transfer of customers to appropriate groups according to total amounts they have spent.
 * Period of calculation of spent amount (in months).
 * Simple transfer rules.
 * Email notification (both the admin and a customer).
