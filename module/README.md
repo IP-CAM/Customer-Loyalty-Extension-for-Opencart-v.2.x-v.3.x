@@ -11,7 +11,7 @@ Compatible with OpenCart 2.2.x-3.x versions.
 * Email notification (both the admin and a customer).
 * Customer group history.
 * Information in the personal account about the total amount spent, the current and the next group.
-* Does not modify OC system files (OCMOD).
+* Does not modify system files (OCMOD).
 
 ## Live demo
 * [Admin](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/customer_loyalty) - module settings
