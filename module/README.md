@@ -7,7 +7,9 @@ Compatible with OpenCart 2.2.x-3.x versions.
 ## Features
 * Automatically assigning customers to appropriate groups based on the total amount they spent.
 * Spent amount calculation period (in months).
-* The ability to "downgrade", in case of a decrease in expenses for the period.
+* Exclusion of some customer groups from the loyalty program.
+* The possibility of "downgrading" in case of a decrease in expenses for the period.
+* Premium customer groups that are not subject to the "downgrade".
 * Simple transfer rules.
 * Email notification (both the admin and a customer).
 * Customer group history.
