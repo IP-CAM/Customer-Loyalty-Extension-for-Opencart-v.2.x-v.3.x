@@ -17,17 +17,17 @@ Compatible with OpenCart 2.2.x-3.x versions.
 * Does not modify system files (OCMOD).
 
 ## Live demo
-* Customer Loyalty [settings](https://demo.ocmod.space/a/admin/index.php?route=extension/module/customer_loyalty)
-* [Customer groups](https://demo.ocmod.space/a/admin/index.php?route=customer/customer_group)
+* Customer Loyalty [settings](https://demo.ocmod.space/a/admin/index.php?route=extension/module/customer_loyalty).
+* [Customer groups](https://demo.ocmod.space/a/admin/index.php?route=customer/customer_group).
 
 ## License
 [End-user License Agreement](https://raw.githubusercontent.com/ocmod-space/ocmod-customer-loyalty/main/EULA.txt)
 
-## Download
-* [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42646)
-* [OCMod Space](https://www.ocmod.space/customer-loyalty)
+## Links
+* **Customer Loyalty** on [**OpenCart Marketplace**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42646).
+* [**Customer Loyalty**](https://www.ocmod.space/customer-loyalty) web page.
 
 ## Related extensions
-* Use the "[Invite Code](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632)" module to allow customers to join other customer groups, for example to access discounts available to those groups.
-* Automatically assign newly registered customers to a defined customer group by using the "[Default Registration Group](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42480)" extension.
-* Check the number of members in customer groups using the "[Customer Group Size](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642)" extension.
+* Use the [**Invite Code**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42632) module to allow customers to join other customer groups, for example to access discounts available to those groups.
+* Automatically assign newly registered customers to a defined customer group by using the [**Default Registration Group**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42480) extension.
+* Check the number of members in customer groups using the [**Customer Group Size**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42642) extension.
